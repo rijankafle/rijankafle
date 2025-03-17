@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Rijankafle 👋
 
-<!--
-**rijankafle/rijankafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here you will find projects I am working on, have contributed to, or find interesting.
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 💻 I’m a software developer interested in backend development and cloud computing.
+- 🌐 I love exploring new technologies and improving my skills.
+- 🛠️ Currently, I'm working on several exciting projects and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me
+- Email: [rijankafle20@augustana.edu](mailto:rijankafle20@augustana.edu)
+- LinkedIn: [Rijan Kafle](https://www.linkedin.com/in/rijan-kafle/)
+
+## ⚡ Fun Fact
+- I love hiking and playing soccer during my free time.
+
+Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
+
+Happy Coding! 🚀
